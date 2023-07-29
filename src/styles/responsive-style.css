@@ -1,0 +1,15 @@
+@media(max-width:996px){
+    .typed1{
+        font-size:3rem;
+    }
+    .typed2{
+        font-size:2rem;
+    }
+    .typed3{
+        font-size:2.8rem;
+    }
+}
+
+@media(max-width:576px){
+    
+}
